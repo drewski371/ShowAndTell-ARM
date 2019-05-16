@@ -4,13 +4,13 @@
       "parameters": {
   
           "hostingPlanName": {
-              "value": "showandtell-prod-hp"
+              "value": "showandtell-uat-hp"
           },
           "webAppName": {
-              "value": "showandtell-prod-web"
+              "value": "showandtell-uat-web"
           },
           "apiName": {
-              "value": "showandtell-prod-api"
+              "value": "showandtell-uat-api"
           },
           "edition": {
               "value": "Basic"

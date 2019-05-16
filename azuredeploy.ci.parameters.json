@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+      "parameters": {
+  
+          "hostingPlanName": {
+              "value": "showandtell-ci-hp"
+          },
+          "webAppName": {
+              "value": "showandtell-ci-web"
+          },
+          "apiName": {
+              "value": "showandtell-ci-api"
+          },
+          "edition": {
+              "value": "Basic"
+          }
+      }
+  }
